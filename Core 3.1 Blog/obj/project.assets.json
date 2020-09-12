@@ -3427,7 +3427,10 @@
         },
         "runtime": {
           "bin/placeholder/Core 3.1 Blog.AccesoDatos.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Core 3.1 Blog.Models/1.0.0": {
         "type": "project",
@@ -10451,7 +10454,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
