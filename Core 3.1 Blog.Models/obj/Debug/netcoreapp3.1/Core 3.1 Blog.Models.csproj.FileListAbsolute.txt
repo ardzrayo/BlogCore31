@@ -7,3 +7,12 @@ C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\bin\Debug\netcoreapp3.1\Core
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.csproj.CoreCompileInputs.cache
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.dll
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Models.deps.json
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Models.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Models.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.csprojAssemblyReference.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.AssemblyInfoInputs.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.AssemblyInfo.cs
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.Models\obj\Debug\netcoreapp3.1\Core 3.1 Blog.Models.pdb

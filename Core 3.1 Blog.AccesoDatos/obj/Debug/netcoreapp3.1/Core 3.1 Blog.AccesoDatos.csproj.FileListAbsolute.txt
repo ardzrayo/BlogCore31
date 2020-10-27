@@ -12,3 +12,17 @@ C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.csproj.CopyComplete
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.dll
 C:\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.deps.json
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Models.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Utilidades.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Models.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\bin\Debug\netcoreapp3.1\Core 3.1 Blog.Utilidades.pdb
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.csprojAssemblyReference.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.AssemblyInfoInputs.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.AssemblyInfo.cs
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.csproj.CopyComplete
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.dll
+C:\Proyectos\Proyectos web\Core 3.1 Blog\Core 3.1 Blog.AccesoDatos\obj\Debug\netcoreapp3.1\Core 3.1 Blog.AccesoDatos.pdb

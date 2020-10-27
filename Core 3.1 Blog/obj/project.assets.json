@@ -10368,11 +10368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\Core 3.1 Blog.csproj",
+      "projectUniqueName": "C:\\Proyectos\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\Core 3.1 Blog.csproj",
       "projectName": "Core 3.1 Blog",
-      "projectPath": "C:\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\Core 3.1 Blog.csproj",
+      "projectPath": "C:\\Proyectos\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\Core 3.1 Blog.csproj",
       "packagesPath": "C:\\Users\\Gojira\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\obj\\",
+      "outputPath": "C:\\Proyectos\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gojira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10388,8 +10388,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog.AccesoDatos\\Core 3.1 Blog.AccesoDatos.csproj": {
-              "projectPath": "C:\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog.AccesoDatos\\Core 3.1 Blog.AccesoDatos.csproj"
+            "C:\\Proyectos\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog.AccesoDatos\\Core 3.1 Blog.AccesoDatos.csproj": {
+              "projectPath": "C:\\Proyectos\\Proyectos web\\Core 3.1 Blog\\Core 3.1 Blog.AccesoDatos\\Core 3.1 Blog.AccesoDatos.csproj"
             }
           }
         }
@@ -10454,7 +10454,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
